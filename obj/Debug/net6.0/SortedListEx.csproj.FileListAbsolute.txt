@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\SortedListEx.exe
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\SortedListEx.deps.json
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\SortedListEx.runtimeconfig.json
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\SortedListEx.dll
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\ref\SortedListEx.dll
+D:\cat32tw\Desktop\SortedListEx\bin\Debug\net6.0\SortedListEx.pdb
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.AssemblyInfo.cs
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.dll
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\ref\SortedListEx.dll
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.pdb
+D:\cat32tw\Desktop\SortedListEx\obj\Debug\net6.0\SortedListEx.genruntimeconfig.cache
